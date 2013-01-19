@@ -1,3 +1,6 @@
 *.pyc
 *.cfg
 scratch.py
+build/
+dist/
+meetup_api.egg-info
