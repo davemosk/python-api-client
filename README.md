@@ -7,12 +7,12 @@ See http://www.meetup.com/meetup_api/clients/ as a reference.
 Sample use:
 
 
-  from meetup import meetup_api_client as mac
-  from meetup import *
+    from meetup import meetup_api_client as mac
+    from meetup import *
   
-  #
-  # in script to get set up authentication ...
-  #
+    #
+    # in script to get set up authentication ...
+    #
   
     try:
       yredir = [URL to your site which will accept the redirect and get the oauth code]
